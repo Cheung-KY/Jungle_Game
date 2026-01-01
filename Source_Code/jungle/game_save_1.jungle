@@ -1,0 +1,21 @@
+player RED Thaddeus
+player BLUE Leopard
+current BLUE
+undos RED 3
+undos BLUE 3
+piece 1 0 BLUE 7
+piece 1 6 BLUE 6
+piece 2 1 BLUE 3
+piece 2 5 BLUE 2
+piece 3 0 BLUE 1
+piece 3 2 BLUE 5
+piece 3 4 BLUE 4
+piece 3 6 BLUE 8
+piece 6 0 RED 8
+piece 7 2 RED 4
+piece 7 4 RED 5
+piece 7 6 RED 1
+piece 8 1 RED 2
+piece 8 5 RED 3
+piece 9 0 RED 6
+piece 9 6 RED 7

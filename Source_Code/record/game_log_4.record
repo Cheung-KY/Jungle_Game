@@ -1,0 +1,9 @@
+start tom Peter
+move E7 D7
+move E3 E2
+move D7 D6
+move G3 G4
+move D6 D5
+move G1 G2
+undo
+move G4 G5
